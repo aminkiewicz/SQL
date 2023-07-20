@@ -1,3 +1,3 @@
 # SQL
 
-Basic SQL queries
+Basic SQL queries and SQL projects
